@@ -1,4 +1,4 @@
-# Expense Tracker (React Router 6 Tutorial)
+# Contacts (React Router 6 Tutorial)
 
 This is a simple **Contacts** application built while following the official **[React Router v6.28 Tutorial](https://reactrouter.com/6.28.0/start/tutorial)**.
 ## Features
